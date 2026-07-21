@@ -1,73 +1,73 @@
-# Trong 100 người mới vào công ty năm nay, khoảng 35 người sẽ không còn ở đó vào năm sau.
+# Out of every 100 new hires this year, about 35 won't be here next year.
 
-Bạn đã biết ai trong số họ đã nghỉ. Điều đó nằm sẵn trong hệ thống rồi.
+You already know who left. That's sitting in the system already.
 
-Câu hỏi khó hơn là: trong những người **đang** ngồi cạnh bạn lúc này, ai sắp đi tiếp — và ai mới thực sự đáng để giữ lại?
+The harder question is: among the people **currently** sitting next to you, who's about to leave next — and who's actually worth fighting to keep?
 
-Đây là câu hỏi mà phân tích này cố gắng trả lời.
-
----
-
-## Vấn đề này tốn kém cỡ nào?
-
-Một nhân viên mới nghỉ trước 1 năm không chỉ tốn tiền tuyển lại. Đó là thời gian đào tạo chưa sinh lời, giờ quản lý huấn luyện người sắp rời đi, kiến thức mất đi trước khi truyền lại được.
-
-Lãnh đạo thường đã có sẵn giả thuyết: "Tăng lương", "Giảm OT", "Cải thiện tinh thần". Nghe hợp lý.
-
-Nhưng sai nhóm, sai lý do — vừa tốn ngân sách, vừa không giải quyết được gì.
+That's the question this analysis tries to answer.
 
 ---
 
-## Phát hiện đã xác nhận (bằng chứng mạnh)
+## How costly is this problem, really?
 
-Hai điều sau đã qua kiểm định thống kê (chi-square, z-test, CI hẹp) và được xếp bậc **Strong evidence** — đủ tin để làm nền cho hành động:
+A new hire leaving within the first year doesn't just cost a rehire. It's training time that never paid off, manager hours spent coaching someone who's about to walk out, and knowledge lost before it gets passed on.
 
-**1. Nhân viên mới nghỉ nhiều hơn hẳn nhân viên lâu năm.**
-Tỷ lệ nghỉ việc ở nhóm dưới 1 năm là 34.9%, ở nhóm trên 11 năm là 8.1% — chênh nhau khoảng **4.3 lần**. Đây là so sánh mô tả trực tiếp trên dữ liệu, không phải một con số đã kiểm soát biến nhiễu.
+Leadership usually already has a favorite theory: "Raise pay," "Cut OT," "Improve morale." Sounds reasonable.
 
-**2. Trong nhóm nhân viên mới, người phải làm nhiều OT nghỉ việc nhiều hơn rõ rệt.**
-55.1% (có OT) so với 25.3% (không OT) — chênh khoảng **2.2 lần**. Đã kiểm tra thử xem có phải chỉ do đặc thù một phòng ban (ví dụ Sales) gây ra không — không phải, hiệu ứng này vẫn còn ở cả nhóm Sales lẫn ngoài Sales, chỉ là ở Sales rõ hơn.
-
-Cả hai con số trên chỉ mô tả sự khác biệt quan sát được, **không phải mức độ rủi ro tăng thêm do OT hay do làm mới gây ra** — dữ liệu không cho phép khẳng định nhân quả.
+But targeting the wrong group with the wrong reason burns budget and fixes nothing.
 
 ---
 
-## Giả thuyết đang theo dõi (chưa đủ để hành động)
+## Confirmed findings (strong evidence)
 
-**Đi công tác nhiều (Business Travel_Frequently)** — tín hiệu khá rõ trong nhóm quan sát, nhưng mẫu chỉ có 36 người, nên khoảng tin cậy rất rộng. Xếp mức **Moderate**: đáng ghi nhận, nhưng không nên dùng làm căn cứ chính cho chính sách.
+The two findings below passed formal statistical testing (chi-square, z-test, tight confidence intervals) and are rated **Strong evidence** — solid enough to act on:
 
-**Lương thấp hơn mặt bằng cùng vị trí** và **mức độ hài lòng công việc thấp** — có chênh lệch giữa người nghỉ và người ở lại, nhưng chênh lệch nhỏ và không đủ mạnh sau khi soát lại. Xếp mức **Weak/exploratory**: nên tiếp tục theo dõi, chưa nên ra chính sách lương hay khảo sát diện rộng chỉ dựa vào hai điều này.
+**1. New hires leave at a much higher rate than tenured employees.**
+Attrition among employees with under 1 year of tenure is 34.9%, versus 8.1% among those with over 11 years — roughly a **4.3x** gap. This is a direct descriptive comparison in the raw data, not a confound-adjusted figure.
 
-**Tương tác giữa OT và mức hài lòng** (ví dụ "OT càng làm người không hài lòng càng dễ nghỉ") — đã kiểm định riêng, **không tìm thấy bằng chứng** cho hiệu ứng cộng hưởng này. Coi như hai yếu tố độc lập.
+**2. Within the new-hire group, employees working heavy overtime leave at a noticeably higher rate.**
+55.1% (with OT) versus 25.3% (without OT) — roughly a **2.2x** gap. We checked whether this was just a Sales-department artifact — it isn't; the effect holds both inside and outside Sales, just more pronounced in Sales.
 
----
-
-## Khuyến nghị hành động
-
-1. **Ưu tiên nguồn lực giữ chân vào 12 tháng đầu tiên** — đây là giai đoạn rủi ro cao nhất theo phát hiện #1, không nên rải đều cho mọi nhân viên.
-2. **Trong nhóm nhân viên mới, rà soát lại việc phân bổ OT trước tiên** — đây là đòn bẩy rõ ràng nhất và HR có thể can thiệp trực tiếp (khác với nơi ở hay tuổi tác). Ưu tiên kiểm tra ở Sales trước vì hiệu ứng rõ nhất ở đó.
-3. **Chưa vội triển khai chính sách lương hay khảo sát tinh thần diện rộng** — nên thử nghiệm nhỏ (pilot) trước, đo hiệu quả thật, rồi mới nhân rộng.
-4. **Dùng công cụ xếp hạng rủi ro như một gợi ý ưu tiên gọi ai vào nói chuyện trước** — không dùng để tự động ra quyết định (nghỉ việc, lương, đánh giá) cho từng cá nhân. Luôn cần người review lại.
+Both numbers describe an observed difference only — **not** the added risk caused by OT or by being new — the data doesn't support a causal claim here.
 
 ---
 
-## Giới hạn cần lưu ý trước khi dùng
+## Hypotheses still under watch (not yet actionable)
 
-- Dữ liệu mẫu công khai (IBM, qua Kaggle) — không phải dữ liệu công ty cụ thể nào; đây là cách tiếp cận minh hoạ, không phải kết luận áp dụng ngay cho một tổ chức thật.
-- Chỉ là một lát cắt tại một thời điểm (không có ngày vào/ngày nghỉ thật) — nên mọi phát hiện chỉ là "A và B có xu hướng đi cùng nhau", không phải "A gây ra B".
-- Không có dữ liệu phỏng vấn nghỉ việc thật, không phân biệt được nghỉ tự nguyện hay bị cho nghỉ — nên không biết chắc lý do thật khi nhân viên rời đi.
-- Công cụ xếp hạng rủi ro ra con số phần trăm, nhưng con số đó **không nên đọc theo nghĩa đen** ("80%" không có nghĩa đúng 80% sẽ nghỉ) — chỉ đáng tin ở việc xếp hạng ai rủi ro hơn ai.
-- Không có cơ sở để khẳng định 1.470 nhân viên này đại diện cho một tổng thể nào khác — mọi kết luận chỉ nằm trong phạm vi dữ liệu này.
+**Frequent business travel (BusinessTravel_Frequently)** — a fairly clear signal in the observed group, but the sample is only 36 people, so the confidence interval is wide. Rated **Moderate**: worth noting, but not a solid basis for policy on its own.
 
----
+**Below-market pay for the role** and **low job satisfaction** — there's a gap between leavers and stayers, but it's small and doesn't hold up strongly after adjustment. Rated **Weak/exploratory**: keep monitoring, but don't roll out a pay policy or a broad engagement survey based on these two alone.
 
-**Nếu dùng thật, phân tích này giúp HR biết nên gọi ai vào phòng trước để giữ chân, thay vì đoán mò hoặc chờ đến lúc họ nộp đơn nghỉ mới biết.**
+**Interaction between OT and satisfaction** (e.g. "OT hits harder for already-unsatisfied employees") — tested directly, **no evidence found** for this compounding effect. Treat the two as independent for now.
 
 ---
 
-## Chi tiết kỹ thuật (tóm tắt, xem đầy đủ trong notebook)
+## Recommended actions
 
-- Dữ liệu: 1.470 nhân viên, IBM HR Attrition (Kaggle), snapshot một thời điểm.
-- "Nghỉ sớm" = `YearsAtCompany ≤ 1`.
-- Model: Logistic Regression, chọn thay vì Random Forest vì diễn giải tốt hơn cho HR (hiệu năng hai model tương đương qua 5-fold CV). ROC-AUC ≈ 0.78–0.79.
-- Toàn bộ test thống kê (loại test, p-value, OR, CI), bậc bằng chứng chi tiết, và log quyết định: xem notebook và `Decision_Log.md` đi kèm.
+1. **Prioritize retention resources in the first 12 months** — this is the highest-risk window per Finding #1, not something to spread evenly across all employees.
+2. **Within the new-hire group, review OT allocation first** — this is the clearest lever HR can actually pull directly (unlike commute distance or age). Start with Sales, where the effect is most visible.
+3. **Hold off on a company-wide pay policy or morale survey** — run a small pilot first, measure real impact, then scale.
+4. **Use the risk-ranking tool as a prompt for who to talk to first** — not as an automated decision-maker for termination, pay, or performance calls on individuals. A human review is always required.
+
+---
+
+## What to be careful about before using this
+
+- This is public sample data (IBM, via Kaggle) — not any specific company's real data. It's a demonstration of approach, not a conclusion ready for direct application to a real organization.
+- It's a single point-in-time snapshot (no real hire/exit dates) — so every finding is "A and B tend to move together," not "A causes B."
+- There's no real exit-interview data, and voluntary vs. involuntary attrition isn't distinguished — so the true reason employees left isn't known for certain.
+- The risk-ranking tool outputs a percentage, but that number **shouldn't be read literally** ("80%" doesn't mean an actual 80% chance of leaving) — it's only reliable for ranking who's riskier than whom.
+- There's no basis to claim these 1,470 employees represent any broader population — every conclusion is scoped to this dataset only.
+
+---
+
+**If put to real use, this analysis helps HR know who to call in for a conversation first, instead of guessing or waiting until the resignation letter is already on the desk.**
+
+---
+
+## Technical details (summary — full detail in the notebook)
+
+- Data: 1,470 employees, IBM HR Attrition dataset (Kaggle), single point-in-time snapshot.
+- "Early attrition" = `YearsAtCompany ≤ 1`.
+- Model: Logistic Regression, chosen over Random Forest for better interpretability for HR (both models performed comparably under 5-fold CV). ROC-AUC ≈ 0.78–0.79.
+- Full statistical test detail (test type, p-value, OR, CI), evidence-tier breakdown, and decision log: see the notebook and `Decision_Log.md`.
